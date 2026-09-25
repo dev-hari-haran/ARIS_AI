@@ -74,7 +74,7 @@ def generate_judge_report() -> None:
     ]
 
     fig, axes = plt.subplots(2, 2, figsize=(18, 14))
-    fig.suptitle("NAVION AGRI-AI — COMPETITION EXECUTIVE DASHBOARD", fontsize=18, fontweight="bold", y=0.98)
+    fig.suptitle("ARIS AI — COMPETITION EXECUTIVE DASHBOARD", fontsize=18, fontweight="bold", y=0.98)
 
     tasks_info = [
         ("Crop Disease (RepViT + Focal Loss)", disease_graphs, disease_m, axes[0, 0]),
@@ -124,7 +124,7 @@ def generate_judge_report() -> None:
 
     summary_table_str = f"""
 ╔══════════════════════════════════════════════════════════════╗
-║           NAVION AGRI-AI — FINAL RESULTS SUMMARY            ║
+║                 ARIS AI — FINAL RESULTS SUMMARY             ║
 ╠══════════════════╦════════════════════════╦═════════════════╣
 ║ Task             ║ Model                  ║ Best Score      ║
 ╠══════════════════╬════════════════════════╬═════════════════╣

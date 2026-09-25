@@ -1,10 +1,10 @@
-# 🌾 NAVION AGRI-AI — Agricultural Intelligence Platform (ARIS)
+# 🌾 ARIS AI — Agricultural Intelligence System
 
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-ee4c2c.svg)](https://pytorch.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-**NAVION AGRI-AI** (ARIS) is an end-to-end multimodal artificial intelligence system built for precision agriculture. The platform integrates computer vision, semantic segmentation, tabular feature engineering, and time-series forecasting to automate crop health monitoring, nutrient optimization, weed management, and smart irrigation.
+**ARIS AI** is an end-to-end multimodal artificial intelligence system built for precision agriculture. The platform integrates computer vision, semantic segmentation, tabular feature engineering, and time-series forecasting to automate crop health monitoring, nutrient optimization, weed management, and smart irrigation.
 
 ---
 
@@ -108,7 +108,7 @@ python generate_final_report.py
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║           NAVION AGRI-AI — FINAL RESULTS SUMMARY            ║
+║                 ARIS AI — FINAL RESULTS SUMMARY             ║
 ╠══════════════════╦════════════════════════╦═════════════════╣
 ║ Task             ║ Model                  ║ Best Score      ║
 ╠══════════════════╬════════════════════════╬═════════════════╣

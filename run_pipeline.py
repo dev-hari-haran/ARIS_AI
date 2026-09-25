@@ -43,7 +43,7 @@ def run_full_pipeline() -> None:
     clear_gpu_cache()
     dev = get_optimal_device()
     print("=" * 60)
-    print(f" NAVION AGRI-AI: STARTING V2 PIPELINE EXECUTION (Device: {dev})")
+    print(f" ARIS AI: STARTING V2 PIPELINE EXECUTION (Device: {dev})")
     print("=" * 60)
     
     start_total_time = time.time()
