@@ -1,0 +1,6 @@
+=== CROP DISEASE PREPROCESSING REPORT ===
+Total Samples (Valid): 18613
+Corrupt Files Removed: 0
+Train Samples: 15445
+Validation Samples: 3168
+Total Classes: 44

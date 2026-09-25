@@ -1,0 +1,4 @@
+=== WEED SEGMENTATION PREPROCESSING REPORT ===
+Total Valid Image-Mask Pairs: 1300
+Train Samples: 1040
+Validation Samples: 260

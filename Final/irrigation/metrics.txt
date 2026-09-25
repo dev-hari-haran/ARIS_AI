@@ -1,0 +1,4 @@
+=== IRRIGATION METRICS ===
+Top-3 Mean RMSE: 0.0004
+Top-3 Mean MAE: 0.0004
+

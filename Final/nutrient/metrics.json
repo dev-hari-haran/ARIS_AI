@@ -1,0 +1,11 @@
+{
+    "task": "Nutrient Fusion",
+    "model": "RepViT+XGBoost+MLP",
+    "metric": "F1 Macro",
+    "score": 0.9423960413072615,
+    "fold_scores": [
+        0.9457623856493561,
+        0.9571910212048621,
+        0.924234717067566
+    ]
+}

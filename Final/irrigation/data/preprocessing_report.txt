@@ -1,0 +1,5 @@
+=== IRRIGATION TIME SERIES PREPROCESSING REPORT ===
+Total Time Series Samples: 500
+Outliers Clipped (IQR): 0
+Features Engineered: 44
+Sequential Split Used (Preserved Time Order): 80% Train (400), 20% Val (100)

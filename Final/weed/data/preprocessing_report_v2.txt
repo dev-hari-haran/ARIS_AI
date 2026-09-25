@@ -1,0 +1,9 @@
+=== WEED SEGMENTATION PREPROCESSING REPORT V2 ===
+Total Valid Image-Mask Pairs: 1300
+Corrupt Files Removed: 0
+Unpaired Images Dropped: 0
+Unpaired Masks Dropped: 0
+Train Samples: 1040
+Validation Samples: 260
+Unique Mask Values: []
+All Black Masks: 0

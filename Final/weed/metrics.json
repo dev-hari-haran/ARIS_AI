@@ -1,0 +1,16 @@
+{
+    "task": "Weed Detection",
+    "model": "SegFormer",
+    "metric": "mIoU",
+    "score": 1.0,
+    "top_checkpoints": [
+        "Final\\weed\\checkpoints\\fold_1.pth",
+        "Final\\weed\\checkpoints\\fold_2.pth",
+        "Final\\weed\\checkpoints\\fold_3.pth"
+    ],
+    "top_fold_scores": [
+        1.0,
+        1.0,
+        1.0
+    ]
+}

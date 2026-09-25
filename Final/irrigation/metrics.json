@@ -1,0 +1,17 @@
+{
+    "task": "Irrigation",
+    "model": "TFT",
+    "metric": "RMSE",
+    "score": 0.0004138464129448977,
+    "mae": 0.0004033539808006026,
+    "top_checkpoints": [
+        "Final\\irrigation\\checkpoints\\fold_3.pth",
+        "Final\\irrigation\\checkpoints\\fold_2.pth",
+        "Final\\irrigation\\checkpoints\\fold_1.pth"
+    ],
+    "top_fold_scores": [
+        0.00011043198986657525,
+        0.0005362842381394944,
+        0.0005948230108286234
+    ]
+}

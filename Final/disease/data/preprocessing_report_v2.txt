@@ -1,0 +1,10 @@
+=== DISEASE PREPROCESSING REPORT V2 ===
+Total images found: 18617
+Corrupt removed: 0
+Classes skipped (< 10 samples): ['bollrot on Cotton']
+Total classes removed: 1 / 7 max
+Remaining classes: 44
+Train samples: 15445
+Val samples: 3168
+Class distribution: {'Brownspot': 1649, 'Becterial Blight in Rice': 1606, 'Rice Blast': 1484, 'Healthy Maize': 1437, 'Common_Rust': 1324, 'Tungro': 1317, 'Wilt': 838, 'RedRot sugarcane': 745, 'Sugarcane Healthy': 616, 'Healthy cotton': 602, 'Gray_Leaf_Spot': 594, 'Mosaic sugarcane': 528, 'Yellow Rust Sugarcane': 509, 'Leaf Curl': 498, 'bacterial_blight in Cotton': 489, 'Army worm': 391, 'Cotton Aphid': 326, 'Bacterial Blight in cotton': 284, 'Wheat Stem fly': 234, 'Wheat black rust': 231, 'Healthy Wheat': 213, 'Wheat powdery mildew': 211, 'Flag Smut': 203, 'Wheat aphid': 194, 'Wheat mite': 192, 'maize fall armyworm': 182, 'Wheat leaf blight': 178, 'maize stem borer': 152, 'cotton mealy bug': 150, 'maize ear rot': 133, 'Wheat scab': 118, 'red cotton bug': 113, 'Wheat___Healthy': 111, 'Wheat___Yellow_Rust': 111, 'RedRust sugarcane': 106, 'cotton whitefly': 98, 'Wheat Brown leaf Rust': 90, 'American Bollworm on Cotton': 86, 'thirps on  cotton': 72, 'Leaf smut': 56, 'pink bollworm in cotton': 56, 'Anthracnose on Cotton': 39, 'bollworm on Cotton': 32, 'Wheat Brown leaf rust': 15}
+Split used: pre-split

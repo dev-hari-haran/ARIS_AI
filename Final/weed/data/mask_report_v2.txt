@@ -1,0 +1,4 @@
+=== WEED MASK VALIDATION REPORT V2 ===
+Unique pixel values found: []
+All-black masks: 0
+Sample bad masks: []

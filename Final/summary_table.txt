@@ -1,0 +1,11 @@
+
++-------------------------------------------------------------------+
+|             NAVION AGRI-AI -- FINAL RESULTS SUMMARY               |
++----------------------+--------------------------+-----------------+
+| Task                 | Model Architecture       | Score           |
++----------------------+--------------------------+-----------------+
+| Crop Disease         | RepViT (Focal Loss)      | F1: 0.5132      |
+| Nutrient Fusion      | RepViT + XGBoost + MLP   | F1: 0.9424      |
+| Weed Segmentation    | SegFormer-B0 (Dice+BCE) | mIoU: 1.0000    |
+| Irrigation Forecast  | Temporal Fusion Trans.   | RMSE: 0.0004    |
++----------------------+--------------------------+-----------------+

@@ -1,0 +1,12 @@
+=== NUTRIENT DEFICIENCY PREPROCESSING REPORT ===
+Total Samples (Valid Images): 1156
+Corrupt Images Removed: 0
+Outliers Clipped (IQR): 910
+NPK Features Used: ['Temparature', 'Humidity', 'Moisture', 'Nitrogen', 'Potassium', 'Phosphorous']
+Train Samples: 924
+Val Samples: 232
+
+Class Counts:
+  Nitrogen(N): 440
+  Potassium(K): 383
+  Phosphorus(P): 333

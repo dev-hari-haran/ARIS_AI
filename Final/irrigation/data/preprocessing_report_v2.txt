@@ -1,0 +1,8 @@
+=== IRRIGATION PREPROCESSING REPORT V2 ===
+Total samples: 500
+Target column used: irrigation_amount (switched from irrigation_amount if near-zero)
+Target mean: nan
+Target std: nan
+Features engineered: 44
+Outliers clipped: 0
+Split: sequential 80/20

@@ -1,0 +1,16 @@
+{
+    "task": "Crop Disease",
+    "model": "RepViT",
+    "metric": "F1 Macro",
+    "score": 0.5132440572198903,
+    "top_checkpoints": [
+        "Final\\disease\\checkpoints\\fold_2.pth",
+        "Final\\disease\\checkpoints\\fold_3.pth",
+        "Final\\disease\\checkpoints\\fold_1.pth"
+    ],
+    "top_fold_scores": [
+        0.5256887719574959,
+        0.5176293497202897,
+        0.4964140499818853
+    ]
+}

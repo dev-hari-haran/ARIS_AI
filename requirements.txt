@@ -1,0 +1,20 @@
+# Core PyTorch Framework
+torch
+torchvision
+
+# Machine Learning & Deep Learning Libraries
+timm
+segmentation-models-pytorch
+xgboost
+scikit-learn
+
+# Data Processing & Computer Vision
+numpy
+pandas
+pillow
+scipy
+
+# Visualization & Progress Tracking
+matplotlib
+seaborn
+tqdm
